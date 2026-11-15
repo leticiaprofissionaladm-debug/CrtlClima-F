@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="CTRLClima — Clima, Saúde e Terra">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#081522"/><stop offset="1" stop-color="#102d3e"/></linearGradient><linearGradient id="a" x2="0" y2="1"><stop stop-color="#2fc7af"/><stop offset="1" stop-color="#0d8b9a"/></linearGradient><radialGradient id="g"><stop stop-color="#31c7b6" stop-opacity=".27"/><stop offset="1" stop-color="#31c7b6" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="330" rx="23" fill="url(#bg)"/>
+<rect x="0" y="0" width="1200" height="6" fill="#2fc7af"/>
+<circle cx="975" cy="168" r="223" fill="url(#g)"/>
+<g stroke="#38bdad" opacity=".23" fill="none"><circle cx="978" cy="166" r="131"/><ellipse cx="978" cy="166" rx="61" ry="131"/><ellipse cx="978" cy="166" rx="131" ry="42"/><path d="M847 166h262M865 93h227M865 239h227"/></g>
+<g stroke="#37c5b4" stroke-width="2" fill="none" opacity=".68"><ellipse cx="978" cy="166" rx="160" ry="82" transform="rotate(-23 978 166)"/><circle cx="978" cy="166" r="132"/></g>
+<rect x="72" y="66" width="64" height="64" rx="18" fill="url(#a)"/>
+<g stroke="#061e2d" fill="none" stroke-width="3"><circle cx="104" cy="98" r="21"/><path d="M84 99h40M104 77c-17 17-17 25 0 42M104 77c17 17 17 25 0 42"/></g>
+<text x="156" y="112" font-size="48" fill="#f3f7fb" font-family="Arial,Helvetica,sans-serif" font-weight="700">CTRL<tspan fill="#2fc7af">Clima</tspan></text>
+<text x="75" y="171" font-size="15" fill="#8eacbb" font-family="Arial,Helvetica,sans-serif" letter-spacing="4">CLIMA · SAÚDE · TERRA</text>
+<text x="75" y="224" font-size="27" fill="#f3f7fb" font-family="Arial,Helvetica,sans-serif" font-weight="700">ENTENDA O CLIMA. <tspan fill="#2fc7af">EXPLORE OS DADOS.</tspan></text>
+<text x="75" y="261" font-size="17" fill="#a8c1cf" font-family="Arial,Helvetica,sans-serif">NASA Space Apps Challenge 2026 · Equipe VulcanoDev</text>
+</svg>
