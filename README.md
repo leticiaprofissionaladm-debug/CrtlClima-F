@@ -1,6 +1,6 @@
 <div align="center">
 
-![CTRLClima — Clima, Saúde e Terra](assets/ctrlclima-banner.svg)
+![CTRLClima — Clima, Saúde e Terra](ctrlclima-banner.svg)
 
 **Interface web · React + TypeScript + Vite**
 
@@ -28,18 +28,18 @@ Interface web do **CTRLClima**, projeto de exploração e interpretação de dad
 
 <div align="center">
 
-![Página inicial do CTRLClima](assets/plataforma.png)
+![Página inicial do CTRLClima](plataforma.png)
 *Página inicial — visual escuro com destaques em verde-turquesa.*
 
-![Exploração de localizações e mapa interativo](assets/mapa.png)
+![Exploração de localizações e mapa interativo](mapa.png)
 *Seleção de região e mapa interativo.*
 
 <details>
 <summary><strong>Ver resultados científicos e projeções (capturas de tela)</strong></summary>
 
-![Dados ambientais e resultados da consulta](assets/resultados.png)
+![Dados ambientais e resultados da consulta](resultados.png)
 
-![Projeções e indicadores estatísticos](assets/tendencias.png)
+![Projeções e indicadores estatísticos](tendencias.png)
 
 </details>
 
